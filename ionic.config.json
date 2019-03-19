@@ -1,0 +1,7 @@
+{
+  "name": "easyApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
